@@ -1,7 +1,5 @@
 import discord
-import os
-import requests
-import random
+import sqlite3
 from discord.ext import commands
 from translate import Translator
 from translate import *
